@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=/usr/bin/pt-os-dashboard --show --signal-only
+Icon=/usr/share/pt-artwork/img/icons/pt-os-dashboard.png
+Terminal=false
+Name=pi-top DASHBOARD
+Comment=
+Categories=Application;Development;
